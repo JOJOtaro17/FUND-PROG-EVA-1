@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="invitado"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-08-31 07:46:14 p. m."/>
+        <attribute name="created" value="aW52aXRhZG87TEFCMDIwNDI1OzIwMjMtMDgtMzE7MDc6MTE6MDYgcC4gbS47MjgzNg=="/>
+        <attribute name="edited" value="aW52aXRhZG87TEFCMDIwNDI1OzIwMjMtMDgtMzE7MDc6NDY6MTQgcC4gbS47MTsyOTUx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="califica" type="Integer" array="False" size=""/>
+            <assign variable="califica" expression="10"/>
+            <output expression="&quot;Hola mundo!!&quot;" newline="True"/>
+            <output expression="&quot;ya hace hambre&quot;" newline="True"/>
+            <output expression="califica" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
